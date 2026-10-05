@@ -5,7 +5,7 @@ Estudiante de Ingeniería en Sistemas de la Información en Hermosillo, Sonora, 
 🌐 Mi portafolio: gloria-sanchez9.github.io
 
 ## Sobre mí
-💻 Desarrollo páginas web con ELOA Dev Team, un equipo de desarrolladores universitarios que crea juegos para aprender.
-🎨 Diseño interfaces y prototipos en Figma.
-🎮 Estoy aprendiendo a crear videojuegos con Unity y C#.
-📚 Me gusta aprender en game jams, hackatones y proyectos de interacción humano-computadora.
+- 💻 Desarrollo páginas web con ELOA Dev Team, un equipo de desarrolladores universitarios que crea juegos para aprender.
+- 🎨 Diseño interfaces y prototipos en Figma.
+- 🎮 Estoy aprendiendo a crear videojuegos con Unity y C#.
+- 📚 Me gusta aprender en game jams, hackatones y proyectos de interacción humano-computadora.

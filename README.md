@@ -1,4 +1,4 @@
-## ¡Hola! Soy Gloria 👋
+## ¡Hola! Soy Gloria 
 
 Estudiante de Ingeniería en Sistemas de la Información en Hermosillo, Sonora, México. Me encanta combinar la programación con la creatividad: desde páginas web hasta videojuegos e instalaciones interactivas para niños.
 
